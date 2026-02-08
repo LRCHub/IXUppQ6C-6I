@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スクールボーイ",
+  "base_artist": "the shes gone",
+  "createdAt": "2026-02-08T21:53:38.415699Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スクールボーイ",
+      "artist": "the shes gone",
+      "has_synced": false,
+      "path": "select/pl_01_スクールボーイ_the_shes_gone.txt"
+    }
+  ]
+}
